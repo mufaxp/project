@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="username">Username</string>
+    <string name="id">ID: </string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+    <string name="search_hint">Ketik nama</string>
+    <string name="name">Name</string>
+    <string name="location">Location :</string>
+    <string name="companies">Companies :</string>
+    <string name="repository">Repository :</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Other string resources-->
+
+</resources>
+
+
